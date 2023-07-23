@@ -1,0 +1,25 @@
+.task-card {
+  background-color: #1a171d;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.user-input {
+  color: #ffffff;
+}
+.category-input {
+  background-color: #f3aa4e;
+  border-radius: 20px;
+  height: 35px;
+  width: 100px;
+  padding: 10px;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.para {
+  margin: 0;
+}
